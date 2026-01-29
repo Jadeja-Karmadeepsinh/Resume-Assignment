@@ -10,6 +10,11 @@ This assignment required creating a **personal resume** in **HTML** that is:
 
 ---
 
+## How to setup
+Just copy paste the index.html file and onen it with any browser
+
+---
+
 ## What’s Covered in My Submission
 - **Semantic HTML**: Proper usage of headings (`<h1>` → `<h2>` → `<h3>`), sections, and articles  
 - **Accessibility Enhancements**:  
